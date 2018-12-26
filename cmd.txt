@@ -4,3 +4,6 @@ git push origin --delete branchname
 
 git revert
 git reset
+
+git pull
+git push
