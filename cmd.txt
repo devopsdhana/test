@@ -4,6 +4,10 @@ git push origin --delete branchname
 
 git revert
 git reset
+<<<<<<< HEAD
 
 git pull
 git push
+=======
+new word
+>>>>>>> afc9a25791e77170b6c7d72e6af8f75268b639aa
