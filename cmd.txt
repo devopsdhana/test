@@ -1,3 +1,6 @@
 git branch -d branchname1
 
 git push origin --delete branchname
+
+git revert
+git reset
